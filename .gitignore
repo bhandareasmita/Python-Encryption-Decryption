@@ -1,2 +1,11 @@
 .DS_Store
-.idea
+
+# Ignore Virtual Environment
+.venv/
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+
+# Ignore Python bytecode files
+__pycache__/
